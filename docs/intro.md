@@ -1,10 +1,15 @@
 ---
 sidebar_position: 1
 ---
+import ControlledZoom from '/src/components/CtrlZoom.js'
 
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
+
+<ControlledZoom>
+  <img src="/img/docusaurus.png" width="500px"></img>
+</ControlledZoom>
 
 ## Getting Started
 
